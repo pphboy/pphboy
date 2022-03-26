@@ -1,5 +1,4 @@
 ### 😈 Happy Hacking
 Emacs Guy
 
-
-Java
+NEP -> Not Editor Player
